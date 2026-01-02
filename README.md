@@ -5,9 +5,7 @@
 ## ⚠️ IMPORTANT WARNING
 This project is provided **strictly for educational and academic study**.
 
-- Creating fake access points, sending deauthentication frames, or intercepting
-- credentials **without explicit permission** may be **illegal and unethical**
-in many countries.
+- Creating fake access points, sending deauthentication frames, or intercepting credentials **without explicit permission** may be **illegal and unethical** in many countries.
 
 ❌ Do NOT use this code on real networks  
 ❌ Do NOT target networks you do not own or do not have written permission for  
@@ -18,8 +16,7 @@ The author and contributors are **not responsible for misuse**.
 ---
 
 ## 📌 Overview
-This project is an **ESP8266-based Wi-Fi research sketch** designed to demonstrate
-how Wi-Fi networks and protocols work internally.
+This project is an **ESP8266-based Wi-Fi research sketch** designed to demonstrate how Wi-Fi networks and protocols work internally.
 
 The code showcases:
 - AP + STA (Access Point + Station) mode
@@ -64,9 +61,7 @@ The sketch includes a built-in web interface that demonstrates:
 - Handling form input
 - Redirecting clients via DNS
 - Dynamic HTML generation on microcontrollers
-- realist improved html page program
-
-> All HTML content is generated directly inside the firmware.
+- Realist improved html page program
 
 ---
 
