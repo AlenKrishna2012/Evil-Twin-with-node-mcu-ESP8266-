@@ -5,8 +5,8 @@
 ## ⚠️ IMPORTANT WARNING
 This project is provided **strictly for educational and academic study**.
 
-Creating fake access points, sending deauthentication frames, or intercepting
-credentials **without explicit permission** may be **illegal and unethical**
+- Creating fake access points, sending deauthentication frames, or intercepting
+- credentials **without explicit permission** may be **illegal and unethical**
 in many countries.
 
 ❌ Do NOT use this code on real networks  
