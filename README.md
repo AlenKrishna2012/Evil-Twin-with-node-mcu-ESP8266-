@@ -1,5 +1,7 @@
 # ESP8266 Wi-Fi Research Tool (Educational)
 
+# works on most models(tested with Arduinodroid)
+
 ## ⚠️ IMPORTANT WARNING
 This project is provided **strictly for educational and academic study**.
 
