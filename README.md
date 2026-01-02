@@ -30,7 +30,7 @@ The code showcases:
 
 ## 🧠 Educational Concepts Demonstrated
 - Wi-Fi scanning (SSID, BSSID, channel)
-- DNS hijacking for captive portals
+- DNS redirection and captive portals
 - HTTP server handling on ESP8266
 - Promiscuous mode concepts
 - Raw Wi-Fi frame structure
@@ -55,4 +55,41 @@ The code showcases:
 
 ---
 
-## 📂 Code Structure Overview
+## 🌐 Web Interface (Conceptual)
+The sketch includes a built-in web interface that demonstrates:
+- Listing nearby Wi-Fi networks
+- Selecting a network
+- Handling form input
+- Redirecting clients via DNS
+- Dynamic HTML generation on microcontrollers
+- realist improved html page program
+
+> All HTML content is generated directly inside the firmware.
+
+---
+
+## 🧪 Intended Use
+This project is meant for:
+- Studying ESP8266 Wi-Fi internals
+- Learning how captive portals work
+- Understanding network protocol behavior
+- Academic research and experimentation
+
+It is **not intended** for real-world deployment or security attacks.
+
+---
+
+## 📄 License
+Educational use only.  
+No warranty provided.  
+Use responsibly and legally.
+
+---
+
+## 👤 Author
+**Alen Krishna V.U**
+
+## 🔗 My Other Repositories
+Check out my other projects related to Python Arduino etc...:
+
+➡️ Visit my GitHub profile to explore more.
