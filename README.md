@@ -89,4 +89,6 @@ Use responsibly and legally.
 ## 🔗 My Other Repositories
 Check out my other projects related to Python Arduino etc...:
 
-➡️ Visit my GitHub profile to explore more.
+Visit my GitHub profile to explore more.
+Click here👇
+https://github.com/AlenKrishna2012
